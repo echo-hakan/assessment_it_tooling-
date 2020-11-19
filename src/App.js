@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>IT Tooling</h1>
-        <h3>  </h3>
+        <h3></h3>
         <input type="hidden" defaultValue={process.env.VAR_KEY_TEST} />
       </header>
     </div>
